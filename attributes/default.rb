@@ -1,0 +1,1 @@
+default['mywebserver']['user'] = 'USER'
